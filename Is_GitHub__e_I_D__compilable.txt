@@ -1,0 +1,10 @@
+There was some inCompatible "LV_PINTool_software" SourceCodeText.
+Did not compile on some ( Linux ) distributions properly, lib*.a files were not 'matching'.
+
+Some hints (less writing at google.com ? ) when compiling software:
+
+to compile "WxWidgets" please ./configure with also =internal on those three graphical formats;
+
+rewwriting Makefile hostedfile on e..I...D.... software at GitHub.com maybe is a solution;
+
+TA
